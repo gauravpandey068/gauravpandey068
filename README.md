@@ -5,6 +5,6 @@
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ... Nothing
-- 📫 How to reach me: ... [Mail](mailto:pandeygaurav068@gmail.com)
+- 📫 How to reach me: ... [Gmail](mailto:pandeygaurav068@gmail.com)
 
 <!-- - ⚡ Fun fact: ... -->
