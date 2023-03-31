@@ -7,3 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravpandey068)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gauravpandey068)](https://github.com/ryo-ma/github-profile-trophy)
+
+
